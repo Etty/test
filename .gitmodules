@@ -1,3 +1,6 @@
 [submodule "ls"]
 	path = ls
 	url = git@github.com:Etty/test.git
+[submodule "js"]
+	path = js
+	url = git@github.com:Etty/jsmodule.git
