@@ -13,12 +13,6 @@
       "email": "vishnu96vishnu@gmail.com"
     }
   ],
-  "repositories": [
-    {
-      "type": "vcs",
-      "url": "https://github.com/Etty/test.git"
-    }
-  ],
   "autoload": {
     "psr-4": {
       "Test\\": "etty/test/"
