@@ -1,5 +1,5 @@
 {
-  "name": "Etty/test",
+  "name": "etty/test",
   "description": "Test Package",
   "version": "1.0.0",
   "minimum-stability": "stable",
@@ -21,7 +21,7 @@
   ],
   "autoload": {
         "psr-4": {
-            "Test": "etty/test/"
+            "Test\\": "etty/test/"
         }
     }
 }
