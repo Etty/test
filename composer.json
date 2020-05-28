@@ -1,0 +1,11 @@
+{
+  "name": "Etty/test",
+  "description": "Test Package",
+  "license": "OSL-3.0",
+    "authors": [
+        {
+            "name": "Nastya Dev",
+            "email": "vishnu96vishnu@gmail.com"
+        }
+    ]
+}
