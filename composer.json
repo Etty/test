@@ -1,6 +1,11 @@
 {
   "name": "Etty/test",
   "description": "Test Package",
+  "version": "1.0.0",
+  "require": {
+	"laravel/framework": "5.0.*",
+	"Etty/test": "master"
+  },
   "license": "OSL-3.0",
     "authors": [
         {
