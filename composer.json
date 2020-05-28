@@ -12,5 +12,11 @@
             "name": "Nastya Dev",
             "email": "vishnu96vishnu@gmail.com"
         }
-    ]
+    ],
+  "repositories": [
+    {
+        "type": "composer",
+    	"url": "https://github.com/Etty/test.git"
+	}
+  ]
 }
