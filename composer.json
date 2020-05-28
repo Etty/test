@@ -2,7 +2,7 @@
   "name": "etty/test",
   "description": "Test Package",
   "version": "1.0.0",
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "require": {
     "php": ">=5.3.0"
   },
