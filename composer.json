@@ -4,24 +4,24 @@
   "version": "1.0.0",
   "minimum-stability": "stable",
   "require": {
-	"php": ">=5.3.0"
+    "php": ">=5.3.0"
   },
   "license": "OSL-3.0",
-    "authors": [
-        {
-            "name": "Nastya Dev",
-            "email": "vishnu96vishnu@gmail.com"
-        }
-    ],
+  "authors": [
+    {
+      "name": "Nastya Dev",
+      "email": "vishnu96vishnu@gmail.com"
+    }
+  ],
   "repositories": [
     {
-        "type": "vcs",
-    	"url": "https://github.com/Etty/test.git"
-	}
+      "type": "vcs",
+      "url": "https://github.com/Etty/test.git"
+    }
   ],
   "autoload": {
-        "psr-4": {
-            "Test\\": "etty/test/"
-        }
+    "psr-4": {
+      "Test\\": "etty/test/"
     }
+  }
 }
